@@ -1,4 +1,4 @@
 mwmmedia
 ========
 
-micro wave music media
+Micro Wave Music media
